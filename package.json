@@ -1,14 +1,14 @@
 {
-  "name": "sew-queen",
+  "name": "The Marvin",
   "version": "3.0.1",
-  "description": "Sew Queen Best Whatsapp-Bot Project In The World",
+  "description": "The Marvin Is the Best Whatsapp-Bot Project In The World",
   "main": "./QueenSewWhatsappBot/sew.js",
   "scripts": {
     "start": "supervisor -s sew.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravindu01manoj/Sew-Queen.git"
+    "url": "git+https://github.com/adithasuvi/Sew-Queen.git"
   },
   "keywords": [
     "whatsapp",
